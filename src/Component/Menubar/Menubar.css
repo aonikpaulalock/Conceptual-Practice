@@ -1,0 +1,6 @@
+.item >li{
+  list-style: none;
+  margin-right: 2em;
+  font-weight: bold;
+  cursor: pointer;
+}
